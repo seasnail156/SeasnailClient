@@ -8,7 +8,7 @@ import net.minecraft.network.protocol.game.ClientboundSetEntityMotionPacket;
 
 public class Velocity extends Module {
     public Velocity() {
-        super("Velocity", "Removes velocity from explosions and entities", Category.PLAYER);
+        super("VelNOcity", "Why did i add this??", Category.PLAYER);
     }
 
     @Subscribe
