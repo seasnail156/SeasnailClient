@@ -8,7 +8,7 @@ public class Coordinates extends HudModule {
     public Setting<Boolean> nether = bool("Nether", false);
 
     public Coordinates() {
-        super("Coordinates", "Display coordinates", 150, 20);
+        super("Where you are", "Display coordinates WOW", 150, 20);
     }
 
     @Override
